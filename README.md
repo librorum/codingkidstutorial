@@ -1,4 +1,10 @@
 # CodingKids App Tutorials
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+1. Create a app
+2. Create a scene
+3. Create a Actor
+4. Set properties by actor bar menu
+5. Code your script by script editor
+6. 
+
 
