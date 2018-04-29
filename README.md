@@ -18,7 +18,16 @@
   * A\) 안드로이드용 앱은 현재는 지원하지 않습니다.
 * Q\)코딩키즈를 배울 수 있는 학원은 있나요?
   * A\) 분당 구미동에 배울 수 있는 교습소가 있습니다. 링크 :   [http://place.map.daum.net/980584125](http://place.map.daum.net/980584125)
+* Q\)코딩키즈로 학생들을 가르치고 싶습니다.
+  * A\) 교습소나, contact@beyondapp.com 으로 문의 주시면 감사하겠습니다.
+  * A\) 개발자 자존심이 있기에 무리한 자격증 남발과 차별성 없는 교육으로 애들을 괴롭히는 일을 하지 않으실 분들만 받습니다.
+* Q\)코딩키즈는 누가 개발한 것인가요?
+  * A\)개발경력 25년 이상의 국산 개발자가 내 자식을 가르치기 위해서 만든 유기농\(?\) 코딩교육앱니다.
+  * A\) 다양한 분야의 개발을 경험한 Full Stack 개발자로서의 경험과 아이 넷을 둔 아버지의 맘으로 개발하고 있습니다.
 
+# 코딩키즈의 교육철학
+
+* 
 CodingKids is a batteries included with sample apps, sample actors, sample images, sample sounds but you can create your own image, sound resources by built-in iPad camera, and mic.
 
 > CodingKids is handy! Only iPad is required. No need to carry notebooks and its power adpaters.
