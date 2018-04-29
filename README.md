@@ -16,6 +16,8 @@
   * A\) 앱 다운로드 밑 사용은 무료입니다. 추후에는 개발비용 보전을 위한 유료서비스가 추가될 수 있습니다만 현재 제공되는 서비스 자체는 계속 무료로 유지할 것입니다.
 * Q\) 안드로이드용 태블릿에서 사용할수는 없나요?
   * A\) 안드로이드용 앱은 현재는 지원하지 않습니다.
+* Q\)코딩키즈를 배울 수 있는 학원은 있나요?
+  * A\) 분당 구미동에 배울 수 있는 교습소가 있습니다. 링크 :   [http://place.map.daum.net/980584125](http://place.map.daum.net/980584125)
 
 CodingKids is a batteries included with sample apps, sample actors, sample images, sample sounds but you can create your own image, sound resources by built-in iPad camera, and mic.
 
