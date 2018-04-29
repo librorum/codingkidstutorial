@@ -2,5 +2,5 @@
 
 * [표지](cover.md)
 * [First Chapter](chapter1.md)
-* [Introduction](README.md)
+* [코딩키즈 소개](README.md)
 

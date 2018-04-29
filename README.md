@@ -1,6 +1,24 @@
-# CodingKids App Tutorials
+# 코딩키즈 소개
 
-> CodinKids a iPhone/iPad App to learn coding by making apps.
+> 코딩키즈는 아이패드/아이폰에서 코딩을 배울 수 있게 만들어진 앱입니다.
+>
+> 코딩키즈의 개발동기는 MIT의 스크래치등을 이용해서 자녀에게 코딩을 가르치다가 아쉬운 점을 느껴서
+>
+> 직접 개발해서 가르치기 위해서 2010년부터  만들어온  앱입니다.
+
+
+
+# 코딩키즈 일문일답
+
+* Q\) 코딩키즈를 실행하기 위한 준비물은 무엇인가요?
+  * A\) iOS 9.0  이상이 구동 가능한 아이패드면 가능합니다. 아이폰에서도 구동가능하지만, 본격적인 수업을 위해서는 아이패드 를 권해드립니다.
+* Q\) 앱을 어디서 다운받나요?
+  * A\) 앱스토어에서 코딩키즈로 검색해서 나오는  앱을 다운받으시거나, [https://itunes.apple.com/kr/app/id439627746?mt=8 ](https://itunes.apple.com/kr/app/id439627746?mt=8 )를 직접 눌러서 받으셔도 됩니다.
+* Q\) 안드로이드용 태블릿에서 사용할수는 없나요?
+  * A\) 안드로이드용 앱은 현재는 지원하지 않습니다.
+  * 
+
+
 
 CodingKids is a batteries included with sample apps, sample actors, sample images, sample sounds but you can create your own image, sound resources by built-in iPad camera, and mic.
 
