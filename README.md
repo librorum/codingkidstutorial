@@ -27,8 +27,15 @@
 
 # 코딩키즈의 교육철학
 
-* 
-CodingKids is a batteries included with sample apps, sample actors, sample images, sample sounds but you can create your own image, sound resources by built-in iPad camera, and mic.
+* 코딩키즈는 단순성과 복잡함, 교육과 재미 이 2가지의 상충하는 목표를 잡고자 최선을 다하고 있습니다. 단 기계적인 중립이 아닌 교육적인 가치를 우선에 두되 주제의 접근방법에서 다양하게 바꿈으로서  재미를 추구하고 있습니다.
+* 코딩키즈는 소프트웨어 우선의 교육을 실시합니다. 하드웨어를 동반한 교육보다는 아이패드라는 고정된 하드웨어를 최대한 활용하는 방식을 택하고 있습니다. 그 이유는,
+  * 하드웨어는 불확정성과 아날로그적 특성을 가지고 있습니다. 이로인해서 생기는 불확실성은 한정된 교육시간을 효율적으로 운영하는데 방해받고 싶지 않기 떄문입니다.
+  * 하드웨어 기판들로 사용되는 PCB나, 부품들이 아이들이 만져도 적합한지에 대한 자신이 없습니다. RoHS란 환경 지침이 지켜지는 지에 확인도 되지 않은 제품들로 교육하는 것은 무책임할수 있다는 우려도 있습니다.
+  * 개인적으로 아들이 로봇과학을 방과후 수업을 들었는데, 너무도 쉽게 망가져 버리는 제품들에 실망한 기억도 하드웨어 교육을 주저하게 합니다.
+  * 중국산 아두이노나, 보드등을 수입해서 애들에게 팔고, 가르칠 수도 있겠지만, 이건 우리가 보장할 수 있는 제품이 아니라 그냥 마지만 먹는 제품이라는 생각이 들어서 잘할수 있는 소프트웨어를 이용한 교육에 집중하려고 합니다.
+  * 참고로 개발자는 로봇, 반도체 쪽 개발회사에서의 경험도 있기때문에, 직접 납땜을 하건, 회로를 설계를 하지는 않았지만, 그 일들이 어떤 일인지 잘 알고 있고, 거기서 교육적인 내용만 소프트웨어로 교육해도 교육적인 목적은 충분힌 달성할 수 있다고 믿습니다.
+
+* CodingKids is a batteries included with sample apps, sample actors, sample images, sample sounds but you can create your own image, sound resources by built-in iPad camera, and mic.
 
 > CodingKids is handy! Only iPad is required. No need to carry notebooks and its power adpaters.
 
