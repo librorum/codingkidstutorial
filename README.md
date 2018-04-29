@@ -15,5 +15,3 @@ Create a app
 
 
 
-![](/assets/codingkidsinaction.jpg)
-
