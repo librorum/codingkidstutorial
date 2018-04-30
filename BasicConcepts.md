@@ -3,6 +3,7 @@
 앞으로 그 개념을 배워보도록 하겠습니다.
 
 # 코딩키즈 앱의 구성요소
+
 * 앱
 * 앱
 * 씬
@@ -22,6 +23,9 @@
 
 * 정수 : Integer
 * 실수 : Floating Point Number
+  * Test1
+  * Test2
+  * 
 
 
 
