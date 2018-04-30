@@ -36,16 +36,5 @@
   * 중국산 아두이노나, 보드등을 수입해서 애들에게 팔고, 가르칠 수도 있겠지만, 이건 우리가 보장할 수 있는 제품이 아니라 그냥 마지만 먹는 제품이라는 생각이 들어서 잘할수 있는 소프트웨어를 이용한 교육에 집중하려고 합니다.
   * 참고로 개발자는 로봇, 반도체 쪽 개발회사에서의 경험도 있기때문에, 직접 납땜을 하건, 회로를 설계를 하지는 않았지만, 그 일들이 어떤 일인지 잘 알고 있고, 거기서 교육적인 내용만 소프트웨어로 교육해도 교육적인 목적은 충분힌 달성할 수 있다고 믿습니다.
 
-* CodingKids is a batteries included with sample apps, sample actors, sample images, sample sounds but you can create your own image, sound resources by built-in iPad camera, and mic.
-
-> CodingKids is handy! Only iPad is required. No need to carry notebooks and its power adpaters.
-
-Create a app
-
-1. Create a scene
-2. Create a Actor
-3. Set properties by actor bar menu
-4. Code your script by script editor
-
 
 
