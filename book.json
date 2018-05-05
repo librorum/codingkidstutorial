@@ -1,2 +1,10 @@
 {
+    "plugins": ["scripts"],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./jjk.js"
+            ]
+        }
+    }
 }

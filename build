@@ -1,0 +1,6 @@
+#!/bin/sh
+
+gitbook build
+
+aws s3 sync ./_book/ s3://codingkidsbook
+
