@@ -3,7 +3,8 @@ $('.downloadable').click(function () {
         var prop = {'name' : 'hello'};
         window.webkit.messageHandlers.observe.postMessage(prop);
     }
-    alert("test");
+    console.log("downloable");
+    alert("downloable");
 });
 
 // 디버깅 용도

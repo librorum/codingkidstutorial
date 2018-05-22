@@ -39,11 +39,15 @@
     * 직교 좌표계는 음수(- 값을 가지는 수)를 실제로 사용하게 해줬습니다.
     * 가로 방향은 x 값으로 표현하고, 세로 방향은 y로 표현합니다.
     * 한 점은 (x, y) 같이 x값
-    * 코딩키즈에서 설정에서 2개의 직교좌표계를 지원하며 씬의 속성에서 설정 가능합니다.
+    * 코딩키즈에서 설정에서 2개의 직교좌표계를 지원하며 씬의 속성에서 설정 가능합니다. 기본은 컴퓨터 좌표계 입니다.
         * 컴퓨터 좌표계 : 화면의 왼쪽 위를 (0,0)으로 하며 우측으로 갈수록 x값이 증가(+) 아래쪽으로 내려갈수록 y값이 증가(+)합니다.
-        * 수학 좌표계 : 화면의 가운데를 (0,0)으로 하며 우측으로 갈수록 x값이 증가(+)하는 것은 같으나, 아래쪽으로 갈수록 y값은 감소(-)합니다.    
-    
-    ![cartesian-coordinate](assets/cartesian_coordinate.png)    
+            * ![computer-coordinate](assets/computer_coordinate.png)    
+
+        * 수학 좌표계 : 화면의 가운데를 (0,0)으로 하며 우측으로 갈수록 x값이 증가(+)하는 것은 같으나, 아래쪽으로 갈수록 y값은 감소(-)합니다.        
+            * ![cartesian-coordinate](assets/cartesian_coordinate.png)    
+
+<iframe style="display:block;margin:auto;" width="560" height="315" src="https://www.youtube.com/embed/f8iw5siRu7g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 * **극 좌표계**
     * 속성에서 극 좌표계를 설정할 수는 없지만, 액터는 스크립트에서 극좌표계를 이용해서 이동할 수 있습니다. 극좌표계를 이용하면 직교좌표계로는 힘든 원을 그리는 운동을 손쉽게 만들 수 있습니다. 예를 들어 지구 주위를 도는 달의 움직임을 극좌표계로 만들어 볼 수 있습니다.
